@@ -84,12 +84,11 @@ body {
 }
 .top-left {
     position: absolute;
-    justify: left;
     padding: 1rem;
     color: white;
     top: 8px;
     left: 16px;
 }
-.li {
-  color: white;
+a:link {
+    color: white;
 }
